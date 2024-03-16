@@ -1,4 +1,3 @@
-my $readme = <<README;
 # Lucas-StreamAutoRedeem - Resgatador Automático de Itens da Loja StreamElements 🛍️
 
 ![Lucas Logo](https://i.imgur.com/JEiczij.png)
@@ -24,22 +23,22 @@ Antes de usar o Lucas-StreamAutoRedeem, certifique-se de ter instalado:
 
 1. Clone o repositório para o seu ambiente local:
 
-\`\`\`
+```sh
 git clone https://github.com/Lucaszmv/Lucas-StreamAutoRedeem.git
-\`\`\`
+```
 
 2. Instale as dependências do projeto:
 
-\`\`\`
+```sh
 cd Lucas
 npm install
-\`\`\`
+```
 
 3. Execute o aplicativo:
 
-\`\`\`
+```sh
 node app.js
-\`\`\`
+```
 
 4. Siga as instruções no terminal para configurar e usar o Lucas-StreamAutoRedeem.
 
@@ -47,11 +46,11 @@ node app.js
 
 Antes de executar o aplicativo, é necessário configurar alguns parâmetros no arquivo \`config.json\`:
 
-- \`tempoEspera\`: Define o tempo de espera (em milissegundos) entre as verificações de pontos.
-- \`novoNomeCanal\`: Nome do canal no StreamElements.
-- \`novoNomeUser\`: Nome do usuário no StreamElements.
-- \`itemId\`: ID do item na loja do StreamElements.
-- \`jwtToken\`: Token JWT para autorização de API do StreamElements.
+- ```tempoEspera```: Define o tempo de espera (em milissegundos) entre as verificações de pontos.
+- ```novoNomeCanal```: Nome do canal no StreamElements.
+- ```novoNomeUser```: Nome do usuário no StreamElements.
+- ```itemId```: ID do item na loja do StreamElements.
+- ```jwtToken```: Token JWT para autorização de API do StreamElements.
 
 ## Contribuição 🤝
 
@@ -61,5 +60,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 README
-
-print $readme;
