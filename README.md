@@ -58,5 +58,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Licença 📄
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-README
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/Lucaszmv/Lucas-StreamAutoRedeem?tab=MIT-1-ov-file#) para mais detalhes.
