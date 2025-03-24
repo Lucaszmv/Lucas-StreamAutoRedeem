@@ -1,4 +1,4 @@
-# Lucas-StreamAutoRedeem - Resgatador Automático de Itens da Loja StreamElements 🛍️
+# StreamAutoRedeem - Resgatador Automático de Itens da Loja StreamElements 🛍️
 
 ![Lucas Logo](https://i.imgur.com/JEiczij.png)
 
