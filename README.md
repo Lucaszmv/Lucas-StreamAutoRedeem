@@ -2,17 +2,17 @@
 
 ![Lucas Logo](https://i.imgur.com/JEiczij.png)
 
-Lucas-StreamAutoRedeem é um aplicativo desenvolvido em Node.js que automatiza o resgate de itens na loja do StreamElements durante transmissões ao vivo. Ele permite que os viewers, streamers e moderadores resgatem itens da loja de forma automática, economizando tempo e simplificando o processo.
+StreamAutoRedeem é um aplicativo desenvolvido em Node.js que automatiza o resgate de itens na loja do StreamElements durante transmissões ao vivo. Ele permite que os viewers, streamers e moderadores resgatem itens da loja de forma automática, economizando tempo e simplificando o processo.
 
 ## Funcionalidades Principais 🚀
 
-- **Resgate Automático de Itens:** Lucas-StreamAutoRedeem pode verificar os pontos do usuário e resgatar automaticamente um item da loja quando pontos suficientes estão disponíveis.
+- **Resgate Automático de Itens:** StreamAutoRedeem pode verificar os pontos do usuário e resgatar automaticamente um item da loja quando pontos suficientes estão disponíveis.
 - **Exibição de Informações:** Fornece informações detalhadas sobre os pontos do usuário, o item a ser resgatado e o status da operação de resgate.
 - **Configurações Personalizáveis:** O aplicativo permite configurar o tempo de espera entre as verificações e personalizar os dados do usuário e da loja.
 
 ## Pré-requisitos 📋
 
-Antes de usar o Lucas-StreamAutoRedeem, certifique-se de ter instalado:
+Antes de usar o StreamAutoRedeem, certifique-se de ter instalado:
 
 - Node.js
 - npm (Node Package Manager)
@@ -24,13 +24,12 @@ Antes de usar o Lucas-StreamAutoRedeem, certifique-se de ter instalado:
 1. Clone o repositório para o seu ambiente local:
 
 ```sh
-git clone https://github.com/Lucaszmv/Lucas-StreamAutoRedeem.git
+git clone https://github.com/Lucaszmv/StreamAutoRedeem.git
 ```
 
 2. Instale as dependências do projeto:
 
 ```sh
-cd Lucas
 npm install
 ```
 
@@ -40,7 +39,7 @@ npm install
 node app.js
 ```
 
-4. Siga as instruções no terminal para configurar e usar o Lucas-StreamAutoRedeem.
+4. Siga as instruções no terminal para configurar e usar o StreamAutoRedeem.
 
 ## Configuração Personalizada ⚙️
 
@@ -58,4 +57,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Licença 📄
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/Lucaszmv/Lucas-StreamAutoRedeem?tab=MIT-1-ov-file#) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/Lucaszmv/StreamAutoRedeem?tab=MIT-1-ov-file#) para mais detalhes.
